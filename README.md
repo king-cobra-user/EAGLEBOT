@@ -4,12 +4,12 @@
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/lucifeermorningstar/deviluserbot)
+![GitHub repo size](https://img.shields.io/github/repo-size/King-cobra-user/EAGLEBOT)
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/lucifeermorningstar)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/devil_boy_6)
 
 
-# Devil-User-Bot
+# EAGLE-User-Bot
 
 DEPLOYING TO HEROKU
 
