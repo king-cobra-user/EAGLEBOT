@@ -19,7 +19,7 @@ DEPLOYING TO HEROKU
 <a href="https://t.me/EAGLE_USERBOT"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![EAGLEBot logo](https://telegra.ph/file/b907cf4d03ef1298fe623.jpg)](https://t.me/EAGLE_USERBOT)# 𝐂𝐫𝐞𝐝𝐢𝐭 𝐆𝐨𝐞𝐬 𝐓𝐨
+[![EAGLEBot logo](https://telegra.ph/file/8a638fe98c217f020d01b.jpg)](https://t.me/EAGLE_USERBOT)# 𝐂𝐫𝐞𝐝𝐢𝐭 𝐆𝐨𝐞𝐬 𝐓𝐨
 1. Programming Error (Error Fixer) 
 2. Kraken (Hellbot owner) 
 3. LegendX (TEAMLEGEND) 
